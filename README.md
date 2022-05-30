@@ -2,7 +2,7 @@
 ### A bit about me!
 :books:Studying at Aicore
 
-- 👋 Hi, I’m Umair a 1st class chemistry graduate from King's college london.
+- 👋 Hi, I’m Umair a 1st class chemistry graduate from King's college london
 - 👀 I’m interested in data engineering and data science
 - 🌱 I’m currently doing an Ai and data course. So far in the course I have successfully completed two projects (:dancer:) and learnt to use: python, SQL, pandas, AWS, docker, Prometheus, Github/git, numpy and CI/CD. At the moment I am writing a code for a hangman game and I am in the process of deciding my specialisation field.
 - :airplane: How to reach me?  :raised_hands:
