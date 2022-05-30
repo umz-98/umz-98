@@ -30,8 +30,9 @@ Linkedin = www.linkedin.com/in/umair-khan-9ab3a2175 <img height=30 src="https://
 
 ### :dancer: Some of my stats
 ![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umz-98&show_icons=true&theme=radical&hide=stars,issues,contribs)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=umz-98&layout=compact&theme=radical&hide=stars,issues,contribs"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umz-98&theme=radical&hide=stars,issues,contribs"/>
+<img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=umz-98&theme=radical&hide=stars,issues,contribs"/>
+<img height=120 src="https://github-readme-stats.vercel.app/api/top-langs?username=umz-98&layout=compact&theme=radical&hide=stars,issues,contribs"/>
+
 <!---
 umz-98/umz-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
