@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Umair a 1st class chemistry graduate from King's college london
 - 👀 I’m interested in machine learning engineering and data science
-- 🌱 I’m currently doing an Ai and data course. So far in the course I have successfully completed two projects (:dancer:) and learnt to use: python, SQL, pandas, AWS, docker, Prometheus, Github/git, numpy and CI/CD. At the moment I am writing a code for a hangman game and I am in the process of deciding my specialisation field.
+- 🌱 I’m currently doing an Ai and data course. So far in the course I have successfully completed three projects (:dancer:) and learnt to use: python, SQL, pandas, AWS, docker, Prometheus, Github/git, numpy and CI/CD. At the moment I am working on a project based on facebook's marketplace machine learning algorithms. I have also decided to improve my java skills so currenly I am working on a snake game project.
 - :airplane: How to reach me?  :raised_hands:
 Linkedin = www.linkedin.com/in/umair-khan-9ab3a2175 <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
           
