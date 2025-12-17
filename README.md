@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Umair a 1st class chemistry graduate from King's college london
 - 👀 I’m interested in machine learning engineering and data science
-- 🌱 I’m currently studying an MSc at Queen Mary University of London, focused on AI, data, and Software as a Service (SaaS). I have successfully completed three independent projects :dancer: and gained experience using Python, SQL, pandas, NumPy, AWS, Docker, Prometheus, GitHub/Git, and CI/CD.
+- 🌱 I’m currently studying an MSc at Queen Mary University of London in Risk Analytics, and focused on AI, data, and Software as a Service (SaaS). I have successfully completed three independent projects :dancer: and gained experience using Python, SQL, pandas, NumPy, AWS, Docker, Prometheus, GitHub/Git, and CI/CD.
 
 At the moment, I am working on a Financial Risk & Market Volatility Analysis Tool, applying data-driven modelling across the full workflow from data collection to deployment.
 
