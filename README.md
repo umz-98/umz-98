@@ -1,11 +1,14 @@
 ## Hello! Welcome to my profile :smiley:
 ### A bit about me!
-:books:Studying at Aicore
+:books:Studying Risk Analytics at QMUL
 
 - 👋 Hi, I’m Umair a 1st class chemistry graduate from King's college london
 - 👀 I’m interested in machine learning engineering and data science
-- 🌱 I’m currently doing an Ai and data course. So far in the course I have successfully completed three projects (:dancer:) and learnt to use: python, SQL, pandas, AWS, docker, Prometheus, Github/git, numpy and CI/CD. At the moment I am working on a project based on facebook's marketplace machine learning algorithms. I have also decided to learn java so currenly I am working on a snake game project.
-- :airplane: How to reach me?  :raised_hands:
+- 🌱 I’m currently studying an MSc at Queen Mary University of London, focused on AI, data, and Software as a Service (SaaS). I have successfully completed three independent projects (:dancer:) and gained experience using Python, SQL, pandas, NumPy, AWS, Docker, Prometheus, GitHub/Git, and CI/CD.
+
+At the moment, I am working on a Financial Risk & Market Volatility Analysis Tool, applying data-driven modelling across the full workflow from data collection to deployment.
+
+✈️ How to reach me? 🙌
 Linkedin = www.linkedin.com/in/umair-khan-9ab3a2175 <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
           
 
